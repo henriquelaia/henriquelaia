@@ -1,63 +1,48 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquelaia/henriquelaia/main/assets/header-dark.svg">
+  <img alt="Henrique Laia — Full-stack developer, fintech, IA e cibersegurança" src="https://raw.githubusercontent.com/henriquelaia/henriquelaia/main/assets/header-light.svg">
+</picture>
+
 <div align="center">
 
-# Henrique Laia
-
-**Full-stack developer · Mestrado em Engenharia Informática na UBI**  
-*Percurso de Virtualização e Cibersegurança*
-
-[Portfólio](https://henriquelaia.pt) · [LinkedIn](https://pt.linkedin.com/in/henrique-laia) · [Contacto](https://henriquelaia.pt/#contact)
+[Portfólio](https://henriquelaia.pt) &nbsp;·&nbsp; [LinkedIn](https://pt.linkedin.com/in/henrique-laia) &nbsp;·&nbsp; [Contacto](https://henriquelaia.pt/#contact)
 
 </div>
 
----
+## Sobre
 
-Desenvolvo produtos web que equilibram **experiência, segurança e utilidade real**. Trabalho sobretudo em fintech, IA aplicada e cibersegurança — da ideia à implementação de soluções prontas a evoluir.
+Construo produtos web que equilibram **experiência, segurança e utilidade real**. Estou a frequentar o **Mestrado em Engenharia Informática** na Universidade da Beira Interior, no percurso de **Virtualização e Cibersegurança**.
 
-## Em foco
+O meu trabalho cruza produto digital, fintech e IA aplicada — sempre com atenção à privacidade, performance e qualidade de implementação.
 
-| Área | O que faço |
-| :-- | :-- |
-| **Produtos web** | Interfaces rápidas, acessíveis e orientadas para o utilizador. |
-| **Fintech & IA** | Produtos que tornam dados complexos em decisões mais claras. |
-| **Cibersegurança** | Privacidade, autenticação e proteção incorporadas desde o início. |
+## Trabalho selecionado
 
-## Projetos selecionados
+| Projeto | Contexto | Tecnologias |
+| :-- | :-- | :-- |
+| **[GoldLock](https://goldlock.app)** | Plataforma de finanças pessoais para Portugal com Open Banking (PSD2), machine learning e IA generativa local. | React · TypeScript · Node.js · Python · PostgreSQL · Docker |
+| **KeyZero** | Gestor de passwords zero-knowledge, vencedor do Shift to Digital. A cifra acontece no browser; o servidor nunca vê a Master Key. | React · Web Crypto API · WebAuthn · Node.js · MongoDB |
+| **[Lucrar.pt](https://lucrar.pt)** | Desenvolvimento e manutenção de páginas rápidas e orientadas para conversão em ambiente de produção. | WordPress · Elementor · JavaScript · HTML · CSS |
 
-### [GoldLock](https://goldlock.app) — gestão financeira pessoal com IA
+## Capacidades
 
-Projeto de licenciatura para Portugal que reúne Open Banking (PSD2), machine learning e IA generativa local. O objetivo é tornar a gestão financeira mais privada, compreensível e útil.
+```text
+PRODUCT & WEB        Interfaces React/Next.js, UX e desenvolvimento full-stack
+DATA & BACKEND       Node.js, Python, PostgreSQL, MongoDB e integrações API
+SECURITY              Autenticação, Web Crypto, privacidade e princípios zero-knowledge
+DELIVERY              Git, Docker, AWS, Vercel e melhoria contínua
+```
 
-`React` · `TypeScript` · `Node.js` · `Python` · `PostgreSQL` · `Redis` · `Docker` · `Ollama`
+## Princípios
 
-### KeyZero — gestor de passwords zero-knowledge
-
-Vencedor do **Shift to Digital**. A cifra acontece no browser, para que o servidor nunca tenha acesso à Master Key.
-
-`React` · `Web Crypto API` · `WebAuthn` · `Node.js` · `MongoDB` · `AES-GCM`
-
-### [Lucrar.pt](https://lucrar.pt) — desenvolvimento web em produção
-
-Desenvolvimento e manutenção de páginas modernas, responsivas e focadas em conversão para um produto real.
-
-`WordPress` · `Elementor` · `JavaScript` · `HTML` · `CSS`
-
-## Stack
-
-**Frontend** — React, Next.js, TypeScript, JavaScript, Tailwind CSS  
-**Backend & dados** — Node.js, Express, Python, Flask, PostgreSQL, MongoDB, Redis  
-**Infraestrutura & ferramentas** — Docker, Git, AWS, Vercel, Figma
-
-## Princípios de trabalho
-
-- Começar pelo problema e pelo impacto, antes da tecnologia.
-- Construir código claro, seguro e fácil de manter.
-- Tratar performance, acessibilidade e privacidade como requisitos do produto.
-
----
+**Clareza antes de complexidade.** Resolver o problema certo, com tecnologia que faz sentido.  
+**Segurança por defeito.** Privacidade e proteção não são extras no fim do projeto.  
+**Detalhe que se sente.** Performance, acessibilidade e uma experiência consistente contam.
 
 <div align="center">
 
-**Disponível para colaborar em produtos web, protótipos e projetos com IA.**  
+---
+
+**Aberto a colaborar em produtos web, protótipos e projetos com IA.**  
 [henriquelaia.pt](https://henriquelaia.pt) · [LinkedIn](https://pt.linkedin.com/in/henrique-laia)
 
 </div>
