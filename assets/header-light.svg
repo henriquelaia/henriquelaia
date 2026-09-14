@@ -1,0 +1,24 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="50" y1="35" x2="1150" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset=".57" stop-color="#E0F2FE"/>
+      <stop offset="1" stop-color="#CCFBF1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="710" y1="44" x2="1070" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <g opacity=".38" stroke="#0F766E" stroke-width="1">
+    <path d="M725 69H1127M725 113H1127M725 157H1127M725 201H1127M725 245H1127M725 289H1127"/>
+    <path d="M769 25V333M813 25V333M857 25V333M901 25V333M945 25V333M989 25V333M1033 25V333M1077 25V333M1121 25V333"/>
+  </g>
+  <path d="M790 254L880 164L943 227L1085 85" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="790" cy="254" r="7" fill="#0F766E"/><circle cx="880" cy="164" r="7" fill="#0F766E"/><circle cx="943" cy="227" r="7" fill="#0F766E"/><circle cx="1085" cy="85" r="7" fill="#0F766E"/>
+  <rect x="72" y="78" width="74" height="8" rx="4" fill="#0F766E"/>
+  <text x="72" y="154" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Henrique Laia</text>
+  <text x="72" y="201" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400">Full-stack developer · fintech · IA · cibersegurança</text>
+  <text x="72" y="274" fill="#0F766E" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">MESTRADO EM ENGENHARIA INFORMÁTICA · UBI</text>
+</svg>
