@@ -1,16 +1,15 @@
-<table>
-  <tr>
-    <td width="190" valign="top">
-      <img src="https://raw.githubusercontent.com/henriquelaia/henriquelaia/main/assets/henrique-laia-profile.jpg" width="170" alt="Henrique Laia">
-    </td>
-    <td valign="middle">
-      <h1>Henrique Laia</h1>
-      <p><strong>Full-stack developer · fintech · IA · cibersegurança</strong></p>
-      <p>Mestrado em Engenharia Informática na UBI<br>Virtualização e Cibersegurança</p>
-      <p><a href="https://henriquelaia.pt">Portfólio</a> &nbsp;·&nbsp; <a href="https://pt.linkedin.com/in/henrique-laia">LinkedIn</a> &nbsp;·&nbsp; <a href="https://henriquelaia.pt/#contact">Contacto</a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+# Henrique Laia
+
+**Full-stack developer · fintech · IA · cibersegurança**  
+Mestrado em Engenharia Informática na UBI · Virtualização e Cibersegurança
+
+[Portfólio](https://henriquelaia.pt) &nbsp;·&nbsp; [LinkedIn](https://pt.linkedin.com/in/henrique-laia) &nbsp;·&nbsp; [Contacto](https://henriquelaia.pt/#contact)
+
+</div>
+
+---
 
 ## Sobre
 
