@@ -1,41 +1,72 @@
-# Olá, sou o Henrique Laia 👋
+<div align="center">
 
-**Full-stack developer** e estudante de Engenharia Informática na UBI. Construo produtos web seguros e úteis, com foco em **fintech**, **open banking**, **IA aplicada** e **cibersegurança**.
+# Henrique Laia
 
-[Portfólio](https://henriquelaia.pt) · [LinkedIn](https://pt.linkedin.com/in/henrique-laia) · [GitHub](https://github.com/henriquelaia)
+### Full-stack developer · fintech · IA · cibersegurança
 
-## Em destaque
+Construo produtos digitais seguros, rápidos e centrados nas pessoas.
 
-### [GoldLock](https://goldlock.app) — finanças pessoais com IA
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-henriquelaia.pt-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://henriquelaia.pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Laia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pt.linkedin.com/in/henrique-laia)
+[![Contacto](https://img.shields.io/badge/Dispon%C3%ADvel%20para-colabora%C3%A7%C3%B5es-16A34A?style=for-the-badge&logo=handshake&logoColor=white)](https://henriquelaia.pt/#contact)
 
-Projeto de licenciatura orientado ao contexto português: uma plataforma full-stack de gestão financeira pessoal com Open Banking (PSD2), machine learning e IA generativa a correr localmente.
+</div>
 
-`React` `TypeScript` `Node.js` `Python` `PostgreSQL` `Redis` `Docker` `Ollama`
+<br>
 
-### KeyZero — gestor de passwords zero-knowledge
+> Estudante de Engenharia Informática na UBI e full-stack developer baseado em Portugal. Trabalho na interseção entre **tecnologia, segurança e produto** — de plataformas de finanças pessoais a experiências web para negócios reais.
 
-Vencedor do **Shift to Digital**. Cifragem executada no browser, para que o servidor nunca tenha acesso à Master Key.
+## Projetos selecionados
 
-`React` `Vite` `Web Crypto API` `WebAuthn` `Node.js` `MongoDB` `AES-GCM`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://goldlock.app">GoldLock</a></h3>
+      <p><strong>Finanças pessoais com IA, feitas para Portugal.</strong></p>
+      <p>Projeto de licenciatura que combina Open Banking (PSD2), machine learning e IA generativa local para transformar dados financeiros em decisões mais claras.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Python</code> <code>PostgreSQL</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ KeyZero</h3>
+      <p><strong>Gestor de passwords zero-knowledge.</strong></p>
+      <p>Vencedor do <em>Shift to Digital</em>. Toda a cifra acontece no browser: o servidor nunca vê a Master Key.</p>
+      <p><code>React</code> <code>Web Crypto API</code> <code>WebAuthn</code> <code>Node.js</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+</table>
 
-### Web development para produtos reais
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://lucrar.pt">Lucrar.pt</a></h3>
+      <p>Desenvolvimento e manutenção contínua de páginas modernas, rápidas e responsivas para um produto em funcionamento.</p>
+      <p><code>WordPress</code> <code>Elementor</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ O que valorizo</h3>
+      <p>Interfaces cuidadas, arquitetura sustentável e privacidade desde o início — sem sacrificar desempenho nem simplicidade.</p>
+    </td>
+  </tr>
+</table>
 
-Atualmente desenvolvo e mantenho experiências web para [Lucrar.pt](https://lucrar.pt), e trabalho em projetos freelance com foco em performance, responsividade e boa experiência de utilização.
+## Stack
 
-`React` `Next.js` `TypeScript` `JavaScript` `WordPress` `Elementor`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,python,postgres,mongodb,redis,docker,git,aws,figma&perline=15" alt="Tecnologias: React, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Express, Python, PostgreSQL, MongoDB, Redis, Docker, Git, AWS e Figma" />
+</p>
 
-## Tecnologias
+## Como trabalho
 
-| Frontend | Backend & dados | Ferramentas |
-| --- | --- | --- |
-| React, Next.js, TypeScript, Tailwind CSS | Node.js, Express, Python, Flask, PostgreSQL, MongoDB, Redis | Git, Docker, AWS, Vercel, Figma |
+```text
+01  Compreender o problema antes de escrever código.
+02  Construir soluções simples, seguras e prontas a evoluir.
+03  Cuidar de cada detalhe que melhora a experiência final.
+```
 
-## Sobre a forma como trabalho
+<div align="center">
 
-- Código limpo, manutenível e pensado para crescer.
-- Segurança e privacidade desde o início — especialmente em produtos financeiros.
-- Atenção a performance, acessibilidade e aos pequenos detalhes da experiência.
+### Tens uma ideia ou um produto para construir?
 
-## Vamos falar?
+[Visita o meu portfólio →](https://henriquelaia.pt) &nbsp;·&nbsp; [Vamos falar no LinkedIn →](https://pt.linkedin.com/in/henrique-laia)
 
-Estou disponível para colaborar em produtos web, protótipos e projetos com IA. Encontra-me em [henriquelaia.pt](https://henriquelaia.pt) ou no [LinkedIn](https://pt.linkedin.com/in/henrique-laia).
+</div>
