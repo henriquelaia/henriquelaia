@@ -23,12 +23,18 @@ O meu trabalho cruza produto digital, fintech e IA aplicada — sempre com aten�
 | **KeyZero** | Gestor de passwords zero-knowledge, vencedor do Shift to Digital. A cifra acontece no browser; o servidor nunca vê a Master Key. | React · Web Crypto API · WebAuthn · Node.js · MongoDB |
 | **[Lucrar.pt](https://lucrar.pt)** | Desenvolvimento e manutenção de páginas rápidas e orientadas para conversão em ambiente de produção. | WordPress · Elementor · JavaScript · HTML · CSS |
 
+## Redes, sistemas & segurança
+
+Formação prática em **Redes de Computadores** e **Administração de Sistemas em Redes (ASiSM)** na UBI, complementada pela certificação **Cisco CCNA: Introduction to Networks**.
+
+`Cisco Networking` · `GNS3` · `Cisco Packet Tracer` · `TCP/IP` · `Routing & Switching` · `Administração de sistemas`
+
 ## Capacidades
 
 ```text
 PRODUCT & WEB        Interfaces React/Next.js, UX e desenvolvimento full-stack
 DATA & BACKEND       Node.js, Python, PostgreSQL, MongoDB e integrações API
-SECURITY              Autenticação, Web Crypto, privacidade e princípios zero-knowledge
+NETWORKS & SECURITY   Redes, sistemas, autenticação, Web Crypto e zero-knowledge
 DELIVERY              Git, Docker, AWS, Vercel e melhoria contínua
 ```
 
